@@ -1,3 +1,5 @@
+// reference: https://css-tricks.com/star-ratings/
+
 const stars = document.querySelectorAll('.star')
 let currentRating = 0
 
